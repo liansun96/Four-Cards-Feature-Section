@@ -1,0 +1,17 @@
+$primary:#549ef2;
+$danger :#ea5353;
+$secondary:#45d3d3;
+$warning :	#fcaf4a;
+$light:	#fafafa;
+
+
+
+$font-family-sans-serif : 'Poppins', sans-serif;
+
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.fourCard{
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
